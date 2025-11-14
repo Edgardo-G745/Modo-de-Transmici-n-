@@ -61,9 +61,9 @@ Tipos de medios de transmición
 ## ✨ Referencias 🌎.
 *(Stallings, W. (2006). Data and Computer Communications (8.ª ed.). Prentice Hall. https://dl.acm.org/doi/book/10.5555/1215307?utm_source.  
 
-International Telecommunication Union. (1993). V.662-2 — Terms and definitions (Rec.). https://www.itu.int/dms_pubrec/itu-r/rec/v/r-rec-v.662-2-199304-s%21%21pdf-s.pdf?utm_source. ). 
+International Telecommunication Union. (1993). V.662-2 — Terms and definitions (Rec.). https://www.itu.int/dms_pubrec/itu-r/rec/v/r-rec-v.662-2-199304-s%21%21pdf-s.pdf?utm_source.
 
-TutorialsPoint. (2023). ¿Cuáles son los diferentes tipos de soportes para líneas de transmisión?. https://www.tutorialspoint.com/what-are-the-different-types-of-transmission-line-supports . )*
+TutorialsPoint. (2023). ¿Cuáles son los diferentes tipos de soportes para líneas de transmisión?. https://www.tutorialspoint.com/what-are-the-different-types-of-transmission-line-supports.
 
 > Ejemplo:   
 > Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977.
