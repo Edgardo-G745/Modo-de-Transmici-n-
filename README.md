@@ -1,4 +1,4 @@
-# Modo-de-Transmici-n-
+# Modo-de-Transmición-
 Tipos de medios de transmición 
 # comparaciones de Medios de transmisión 
 
