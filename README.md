@@ -8,7 +8,7 @@ Tipos de medios de transmición
 # Comparativa deMedios de Transmisión Guiados y No Guiados (Inalámbricos).
 
 ## 📝 Resumen
-*( Los medios de transmisión son los canales físicos o inalámbricos que permiten el traslado de señales entre emisor y receptor. Se clasifican en guiados que requieren un conductor: par trenzado, coaxial, fibra óptica y no guiados o inalámbricos (radio, microondas, satélite, infrarrojo). La elección depende de requisitos de ancho de banda, distancia, costo e inmunidad a interferencias: la fibra ofrece la mayor capacidad y menor atenuación; el par trenzado es económico y común en LAN; y las soluciones inalámbricas dan movilidad y cobertura donde el cableado es inviable. )*
+*(Los medios de transmisión son los canales físicos o inalámbricos que permiten el traslado de señales entre emisor y receptor. Se clasifican en guiados que requieren un conductor: par trenzado, coaxial, fibra óptica y no guiados o inalámbricos (radio, microondas, satélite, infrarrojo). La elección depende de requisitos de ancho de banda, distancia, costo e inmunidad a interferencias: la fibra ofrece la mayor capacidad y menor atenuación; el par trenzado es económico y común en LAN; y las soluciones inalámbricas dan movilidad y cobertura donde el cableado es inviable. )*
 
 ## 🧱 Palabras clave 🧱.
 *(coaxial, fibra óptica, infrarrojo, par trenzado, radio. )*
@@ -54,12 +54,16 @@ Tipos de medios de transmición
 ---
 
 ##🚀 Conclusión 🚀.
-*( escribir conclucion.)*
+*( No existe un “mejor” medio universal: la fibra óptica es la opción para máxima capacidad y distancia, el par trenzado y coaxial siguen siendo soluciones coste-efectivas para entornos locales, y los medios inalámbricos aportan movilidad y flexibilidad cuando el cableado no es práctico. La selección debe equilibrar rendimiento, coste, distancia y requisitos de seguridad.)*
 
 ---
 
 ## ✨ Referencias 🌎.
-*(Incorpore aquí solo las fuentes que realmente haya consultado, en formato APA 7. Mínimo 2 referencias.)*
+*(Stallings, W. (2006). Data and Computer Communications (8.ª ed.). Prentice Hall. https://dl.acm.org/doi/book/10.5555/1215307?utm_source.  
+
+International Telecommunication Union. (1993). V.662-2 — Terms and definitions (Rec.). https://www.itu.int/dms_pubrec/itu-r/rec/v/r-rec-v.662-2-199304-s%21%21pdf-s.pdf?utm_source. ). 
+
+TutorialsPoint. (2023). ¿Cuáles son los diferentes tipos de soportes para líneas de transmisión?. https://www.tutorialspoint.com/what-are-the-different-types-of-transmission-line-supports . )*
 
 > Ejemplo:   
 > Daza Ramírez, F. (2009). Ponchado de cables: ( ed.). El Cid Editor | apuntes. https://elibro.net/es/lc/oteima/titulos/28977.
