@@ -3,7 +3,7 @@ Tipos de medios de transmición
 # comparaciones de Medios de transmisión 
 
 ##  📄Ing.Oscar Gutierrez🛣️ 4-786-2403📜   .
-*(Estudiante Edgardo Guerra 4-832-438.)*
+*Estudiante Edgardo Guerra 4-832-438.*
 
 # Comparativa deMedios de Transmisión Guiados y No Guiados (Inalámbricos).
 
