@@ -59,7 +59,7 @@ Tipos de medios de transmición
 ---
 
 ## ✨ Referencias 🌎.
-*(Stallings, W. (2006). Data and Computer Communications (8.ª ed.). Prentice Hall. https://dl.acm.org/doi/book/10.5555/1215307?utm_source.  
+*(Stallings, W. (2006). Data and Computer Communications (8.ª ed.). Prentice Hall. https://dl.acm.org/doi/book/10.5555/1215307?utm_source=chatgpt.com.  
 
 International Telecommunication Union. (1993). V.662-2 — Terms and definitions (Rec.). https://www.itu.int/dms_pubrec/itu-r/rec/v/r-rec-v.662-2-199304-s%21%21pdf-s.pdf?utm_source.
 
